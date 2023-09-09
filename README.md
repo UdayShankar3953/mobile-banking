@@ -20,7 +20,7 @@
     - [6. EB, Telephone Bill Payment](#6-eb-telephone-bill-payment)
     - [7. DD/Cheque Request](#7-ddcheque-request)
     - [8. Change Password](#8-change-password)
-    
+- [Screenshots](#screenshots)
     
 ## Introduction
 
@@ -102,3 +102,32 @@ Users can request demand drafts (DD) or cheque books through this module. It sim
 #### 8. Change Password
 
 This module enables users to change their mobile banking system passwords for added security.
+
+## Screenshots
+
+Here are some screenshots from the Mobile Banking System:
+
+<img src="m_bank/screenshot/Screenshot (57).png">
+
+*Regestration form.*
+
+<img src="m_bank/screenshot/Screenshot (58).png">
+
+*Payment Details*
+
+<img src="m_bank/screenshot/Screenshot (59).png">
+
+*Mobile Registration form.*
+
+
+<img src="m_bank/screenshot/Screenshot (60).png">
+
+*Home.*
+
+<img src="m_bank/screenshot/Screenshot (61).png">
+
+*Bill payment*
+
+<img src="m_bank/screenshot/Screenshot (62).png">
+
+*Bank details*
