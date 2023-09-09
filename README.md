@@ -20,9 +20,8 @@
     - [6. EB, Telephone Bill Payment](#6-eb-telephone-bill-payment)
     - [7. DD/Cheque Request](#7-ddcheque-request)
     - [8. Change Password](#8-change-password)
-    - [9. Chatting](#9-chatting)
     
-
+    
 ## Introduction
 
 The Mobile Banking System is a project aimed at mobilizing the banking process to enhance customer convenience. This system allows bank customers to access their account details, perform transactions, and access various banking services through their mobile devices.
@@ -103,8 +102,3 @@ Users can request demand drafts (DD) or cheque books through this module. It sim
 #### 8. Change Password
 
 This module enables users to change their mobile banking system passwords for added security.
-
-#### 9. Chatting
-
-Users can engage in real-time chats with other clients. It includes features like entering a secret code for chat room access and supports multiple simultaneous chats.
-
